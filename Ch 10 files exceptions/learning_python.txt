@@ -1,0 +1,3 @@
+In Python you can make lists and dictionaries.
+In Python you can write functions and classes.
+In Python you can read from a text file.
